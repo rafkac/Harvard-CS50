@@ -1,4 +1,4 @@
-These are my problem set solutions and final project for the Harvard CS50 course.
+These are my problem sets' solutions and final project for the Harvard CS50 course.
 
 
 ---
